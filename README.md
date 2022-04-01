@@ -1,6 +1,6 @@
 # ELECTRONICS-I-LAB-TASKS
 
-This repository is for "Electronics I" lab tasks and assignments
+##### This repository is for "Electronics I" lab tasks and assignments
 ---
 
 **Course Code** : EEE 212(V3)
